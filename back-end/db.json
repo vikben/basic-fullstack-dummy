@@ -1,0 +1,46 @@
+{
+  "companies": [
+    {
+      "id": "0",
+      "name": "Company A asjhdfgakjsdfhgkjadshfg ",
+      "logo": "https://placekitten.com/100/100",
+      "specialties": "Excavation",
+      "city": "Munich"
+    },
+    {
+      "id": "1",
+      "name": "Company B",
+      "logo": "https://placekitten.com/100/100",
+      "specialties": "Plumbing",
+      "city": "Berlin"
+    },
+    {
+      "id": "2",
+      "name": "Company C",
+      "logo": "https://placekitten.com/100/100",
+      "specialties": "Electrical",
+      "city": "Frankfurt"
+    },
+    {
+      "id": "3",
+      "name": "Company D",
+      "logo": "https://placekitten.com/100/100",
+      "specialties": "Excavation",
+      "city": "Berlin"
+    },
+    {
+      "id": "4",
+      "name": "Company E",
+      "logo": "https://placekitten.com/100/100",
+      "specialties": "Plumbing",
+      "city": "Munich"
+    },
+    {
+      "id": "5",
+      "name": "Company F",
+      "logo": "https://placekitten.com/100/100",
+      "specialties": "Electrical",
+      "city": "Frankfurt"
+    }
+  ]
+}

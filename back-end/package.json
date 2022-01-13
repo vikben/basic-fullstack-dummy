@@ -1,0 +1,19 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "nodemon server.ts"
+  },
+  "author": "Vikram",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.13",
+    "@types/node": "^17.0.0",
+    "node": "^15.4.0",
+    "nodemon": "^2.0.6",
+    "ts-node": "^10.4.0",
+    "typescript": "^4.5.4"
+  }
+}
